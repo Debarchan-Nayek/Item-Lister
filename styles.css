@@ -1,0 +1,80 @@
+body
+{
+  margin: 0;
+  background-image: url("images.jpg");
+  background-size: cover;
+}
+
+.NavBar
+{
+  font-size: 3rem;
+  font-family:"Montserrat-Bold";
+}
+.Icon
+{
+  margin-right: 3%;
+  padding-left: 2%;
+}
+.navbar
+{
+  background-color: #2ec1ac;
+  padding-top:1.5% ;
+  padding-bottom: 1.5%;
+}
+#container-1
+{
+  font-size: 1.5rem;
+  margin-left: 20%;
+  margin-top: 50px;
+}
+.text-input
+{
+  padding: 10px;
+  margin-top: 0;
+  margin-right: 3%;
+}
+.submit-button
+{
+  border-radius: 12px;
+  padding: 12px 28px;
+  background-color:#2ec1ac;
+}
+.submit-button:hover
+{
+  background-color: white;
+}
+.submit
+{
+  padding: 6px;
+}
+.container-2
+{
+  margin-left: 20%;
+}
+.item-heading
+{
+  font-size: 1.75rem;
+}
+#items
+{
+  list-style-type: none;
+  padding:0;
+  margin-right: 50px;
+  border: 1px solid black;
+}
+.item-list
+{
+  font-size: 1.5rem;
+  padding: 10px 19px;
+  border-bottom: 1px solid black;
+}
+.item-button
+{
+  float: right;
+  height: 30px;
+  background-color:#fa1616;
+}
+.item-button:hover
+{
+  background-color: #d7385e;
+}
